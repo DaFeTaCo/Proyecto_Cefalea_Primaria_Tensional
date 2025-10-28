@@ -59,6 +59,4 @@ La estructura del repositorio está organizada de la siguiente manera (sujeto a 
 
   * **Rodrigo Andres Solarte Milla** – Neurólogo Clínico: andres\_solarte@hotmail.com
 
------
-
-¿Hay alguna sección adicional que te gustaría incluir en el README (por ejemplo, resultados preliminares, pasos de instalación si hay código ejecutable, o información de publicación)?
+----
